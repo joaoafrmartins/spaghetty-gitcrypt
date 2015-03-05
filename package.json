@@ -1,0 +1,33 @@
+{
+  "name": "spaghetty-gitcrypt",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "encrypt and decrypt git repositories",
+  "keywords": [
+    "spaghetty",
+    "gitcrypt"
+  ],
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "dependencies": {
+    "a-cli-command": "",
+    "png-stash": "",
+    "async": ""
+  },
+  "peerDependencies": {
+    "spaghetty-init": ""
+  },
+  "devDependencies": {
+    "kosher": "",
+    "a-cli-domain": ""
+  },
+  "homepage": "https://github.com/joaoafrmartins/spaghetty-gitcrypt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/spaghetty-gitcrypt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/spaghetty-gitcrypt/issues"
+  }
+}
