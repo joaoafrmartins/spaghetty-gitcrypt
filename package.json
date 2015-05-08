@@ -29,5 +29,6 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/spaghetty-gitcrypt/issues"
-  }
+  },
+  "license": "MIT"
 }
